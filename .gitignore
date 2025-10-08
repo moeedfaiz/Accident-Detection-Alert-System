@@ -1,0 +1,20 @@
+﻿# Python / build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/credentials.toml
+
+# OS
+.DS_Store
+Thumbs.db
