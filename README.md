@@ -2,7 +2,7 @@
 
 - Offline accident/near-miss detection (YOLOv11) on video files
 - Streamlit UI: upload → run → review → export
-- Trained on: Roboflow *deteccion_accidentes* dataset
+- Trained on: Roboflow 2 datasets 
 
 ## Quick start
 1. `python -m venv .venv && .\.venv\Scripts\Activate.ps1`
